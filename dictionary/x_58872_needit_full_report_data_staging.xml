@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="full_report_data_staging" max_length="40" name="x_58872_needit_full_report_data_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CDATE" label="CDATE" max_length="40" name="u_cdate" type="glide_date"/>
+        <element attributes="import_attribute_name=OID" label="OID" max_length="40" name="u_oid" type="integer"/>
+        <element attributes="import_attribute_name=SID" label="SID" max_length="40" name="u_sid" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SSTRING" label="SSTRING" max_length="40" name="u_sstring" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SVALUE" label="SVALUE" max_length="40" name="u_svalue" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=TYPE" label="TYPE" max_length="40" name="u_type" type="string"/>
+        <element attributes="import_attribute_name=VID" label="VID" max_length="40" name="u_vid" type="integer"/>
+    </element>
+</database>
