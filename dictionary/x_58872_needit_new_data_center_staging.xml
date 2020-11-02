@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="NEW DATA CENTER STAGING" max_length="40" name="x_58872_needit_new_data_center_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=COMPUTER_ROOM" label="COMPUTER_ROOM" max_length="40" name="u_computer_room" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=DATA_CENTER" label="DATA_CENTER" max_length="40" name="u_data_center" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=EQUIPMENT_NAME" label="EQUIPMENT_NAME" max_length="40" name="u_equipment_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=INTERFACE_IP_ADDR" label="INTERFACE_IP_ADDR" max_length="40" name="u_interface_ip_addr" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=INTERFACE_NAME" label="INTERFACE_NAME" max_length="40" name="u_interface_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=PORT_NAME" label="PORT_NAME" max_length="40" name="u_port_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RACK" label="RACK" max_length="40" name="u_rack" type="string"/>
+    </element>
+</database>
