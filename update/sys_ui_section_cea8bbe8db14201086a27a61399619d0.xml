@@ -4,29 +4,113 @@
             <element>u_cdate</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-11-02 21:00:31</sys_created_on>
-            <sys_id>a8d8732cdb14201086a27a61399619f6</sys_id>
+            <sys_created_on>2020-11-02 21:03:37</sys_created_on>
+            <sys_id>f989bb2cdb14201086a27a6139961905</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_report_data" sys_domain="global" view="Default view">cea8bbe8db14201086a27a61399619d0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-11-02 21:00:31</sys_updated_on>
+            <sys_updated_on>2020-11-02 21:03:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sstring</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 21:03:37</sys_created_on>
+            <sys_id>7d89bb2cdb14201086a27a6139961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_report_data" sys_domain="global" view="Default view">cea8bbe8db14201086a27a61399619d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 21:03:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_oid</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 21:03:37</sys_created_on>
+            <sys_id>fd89bb2cdb14201086a27a6139961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_report_data" sys_domain="global" view="Default view">cea8bbe8db14201086a27a61399619d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 21:03:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_type</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 21:03:37</sys_created_on>
+            <sys_id>7189bb2cdb14201086a27a6139961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_report_data" sys_domain="global" view="Default view">cea8bbe8db14201086a27a61399619d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 21:03:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-11-02 21:00:31</sys_created_on>
-            <sys_id>a0d8732cdb14201086a27a61399619f7</sys_id>
+            <sys_created_on>2020-11-02 21:03:37</sys_created_on>
+            <sys_id>f189bb2cdb14201086a27a6139961906</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_report_data" sys_domain="global" view="Default view">cea8bbe8db14201086a27a61399619d0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-11-02 21:00:31</sys_updated_on>
+            <sys_updated_on>2020-11-02 21:03:37</sys_updated_on>
             <sys_user/>
             <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_svalue</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 21:03:37</sys_created_on>
+            <sys_id>7589bb2cdb14201086a27a6139961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_report_data" sys_domain="global" view="Default view">cea8bbe8db14201086a27a61399619d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 21:03:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vid</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 21:03:37</sys_created_on>
+            <sys_id>f589bb2cdb14201086a27a6139961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_report_data" sys_domain="global" view="Default view">cea8bbe8db14201086a27a61399619d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 21:03:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sid</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-02 21:03:37</sys_created_on>
+            <sys_id>7989bb2cdb14201086a27a6139961906</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_report_data" sys_domain="global" view="Default view">cea8bbe8db14201086a27a61399619d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-02 21:03:37</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

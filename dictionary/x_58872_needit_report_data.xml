@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="report_data" max_length="40" name="x_58872_needit_report_data" type="collection">
         <element attributes="edge_encryption_enabled=true" label="CDATE" max_length="40" name="u_cdate" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="OID" max_length="40" name="u_oid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SID" max_length="40" name="u_sid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="sstring" max_length="40" name="u_sstring" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="svalue" max_length="40" name="u_svalue" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="type" max_length="40" name="u_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="VID" max_length="40" name="u_vid" type="string"/>
     </element>
 </database>
