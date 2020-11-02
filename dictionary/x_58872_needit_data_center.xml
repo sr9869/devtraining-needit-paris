@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="data center" max_length="40" name="x_58872_needit_data_center" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="computer room" max_length="40" name="u_computer_room" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="data center" max_length="40" name="u_data_center" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="equipment name" max_length="40" name="u_equipment_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="interface ip address" max_length="40" name="u_interface_ip_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="interface name" max_length="40" name="u_interface_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="port name" max_length="40" name="u_port_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rack" max_length="40" name="u_rack" type="string"/>
+    </element>
+</database>
